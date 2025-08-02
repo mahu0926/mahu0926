@@ -25,6 +25,7 @@ name: Mahati Manda
 </a>
 
 ![snake gif](https://raw.githubusercontent.com/mahu0926/mahu0926/output/github-contribution-grid-snake.svg)
+<img src="https://<mahu0926>.github.io/<mahu0926>/github-contribution-grid-snake.svg" width="100%"/>
 
 <h3> 🚀 &nbsp;some tools i've used </h3>
 <p align="left">
