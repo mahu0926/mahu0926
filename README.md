@@ -19,6 +19,7 @@ name: Mahati Manda
 ```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahu0926&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahu0926&layout=compact)
 
 <h3> 🚀 &nbsp;some tools i've used </h3>
 <p align="left">
