@@ -24,7 +24,7 @@ name: Mahati Manda
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahu0926&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-(https://github.com/mahu0926/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/mahu0926/blob/output/github-contribution-grid-snake.svg)
 
 <h3> 🚀 &nbsp;some tools i've used </h3>
 <p align="left">
