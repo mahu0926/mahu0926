@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ```yaml
 name: Mahati Manda
+education:
+  {bachelors: Carnegie Mellon University,
+   highschool: Basis Independent Silicon Valley}
+
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mahu0926" />
