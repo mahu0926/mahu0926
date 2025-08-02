@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+<a href="https://www.linkedin.com/in/mahatim/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,10 +21,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-<a href="https://www.linkedin.com/in/mahatim/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
 
 ```yaml
 name: Mahati Manda
