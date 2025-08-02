@@ -25,3 +25,5 @@ name: Mahati Manda
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahu0926&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
