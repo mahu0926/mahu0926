@@ -24,12 +24,7 @@ name: Mahati Manda
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahu0926&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+![github-snake](https://raw.githubusercontent.com/<username>/<repo>/gh-pages/github-snake.svg)
 
 <h3> 🚀 &nbsp;some tools i've used </h3>
 <p align="left">
