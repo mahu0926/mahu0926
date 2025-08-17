@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 
 ```yaml
 name: Mahati Manda
+education: B.S. @ Carnegie Mellon University
+- majors: [Artifical Intelligence, Electrical and Computer Engineering]
+- clubs: [Saans, SWE, IEEE, Roboclub]
+- hobbies: [research, singing, violin, tennis]
+interests: [Diffusion Models, Perception]
 ```
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mahu0926" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahu0926&layout=compact&langs_count=8&card_width=320" />
 </a>
@@ -29,7 +35,16 @@ name: Mahati Manda
 <h3> 🚀 &nbsp;some tools i've used </h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="path/to/autodesk-fusion-360.svg" alt="Autodesk Fusion 360" width="45" height="45"/>
+<img src="path/to/systemverilog.svg" alt="SystemVerilog" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Robot_Operating_System_logo.svg" alt="ROS" width="45" height="45"/>
 </p>
 
