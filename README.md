@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hiii 👋
 
 <!--
 **mahu0926/mahu0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,8 +43,10 @@ interests: [Diffusion Models, Perception]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="path/to/autodesk-fusion-360.svg" alt="Autodesk Fusion 360" width="45" height="45"/>
-<img src="path/to/systemverilog.svg" alt="SystemVerilog" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Robot_Operating_System_logo.svg" alt="ROS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="45" height="45"/>
+<img src="https://www.svgrepo.com/show/374115/systemverilog.svg" alt="SystemVerilog" width="45" height="45"/>
 </p>
 
