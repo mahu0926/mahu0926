@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mahu0926" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahu0926&layout=compact&langs_count=8&card_width=320" />
+</a>
 -->
 
 ```yaml
@@ -22,13 +30,6 @@ education: B.S. @ Carnegie Mellon University
 - hobbies: [research, singing, violin, tennis]
 interests: [Diffusion Models, Perception]
 ```
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mahu0926" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahu0926&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ![Snake animation](https://github.com/mahu0926/mahu0926/blob/output/github-contribution-grid-snake.svg)
 
