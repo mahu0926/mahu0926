@@ -29,7 +29,7 @@ education: B.S. @ Carnegie Mellon University
 - clubs: [President @ Saans, SCF Comittee @ SWE , Research Co-chair @ IEEE, Roboclub]
 - hobbies: [research, singing, violin, tennis]
 interests: [Diffusion Models, Perception, Computer Architecture / Parallel Computation and Optimization]
-listening_to: [Weston Estate, AP Dhillon, Brent Faiyaz]
+listening_to: [Weston Estate, Brent Faiyaz]
 ```
 
 ![Snake animation](https://github.com/mahu0926/mahu0926/blob/output/github-contribution-grid-snake.svg)
