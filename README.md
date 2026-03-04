@@ -27,7 +27,7 @@ name: Mahati Manda
 education: B.S. @ Carnegie Mellon University
 - majors: [Artificial Intelligence, Electrical and Computer Engineering]
 - clubs: [President @ Saans, Research Co-chair @ IEEE, Roboclub]
-- hobbies: [research, singing, violin, tennis]
+- hobbies: [singing, violin, tennis]
 interests: [Diffusion Models, Perception, Systems]
 ```
 
