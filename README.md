@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 ```yaml
 name: Mahati Manda
 education: B.S. @ Carnegie Mellon University
-- majors: [Artifical Intelligence, Electrical and Computer Engineering]
-- clubs: [President @ Saans, SCF Comittee @ SWE , Research Co-chair @ IEEE, Roboclub]
+- majors: [Artificial Intelligence, Electrical and Computer Engineering]
+- clubs: [President @ Saans, Research Co-chair @ IEEE, Roboclub]
 - hobbies: [research, singing, violin, tennis]
-interests: [Diffusion Models, Perception, Computer Architecture / Parallel Computation and Optimization]
-listening_to: [Weston Estate, Brent Faiyaz]
+interests: [Diffusion Models, Perception, Systems]
 ```
 
 ![Snake animation](https://github.com/mahu0926/mahu0926/blob/output/github-contribution-grid-snake.svg)
